@@ -3,8 +3,10 @@
 
 Minecraft Cube Light is a project that replicates the ambiance of Minecraft's cube-based lighting system using NeoPixel LEDs controlled by an Arduino or compatible microcontroller.
 
-<img src="https://github.com/Dawn-Of-Justice/Minecraft-Orelight/blob/master/images/cube-lightup.png" width="300" style="display: inline-block;"/>
-<img src="https://github.com/Dawn-Of-Justice/Minecraft-Orelight/blob/master/images/cube.png" width="300" style="display: inline-block;"/>
+<div>
+  <img src="https://github.com/Dawn-Of-Justice/Minecraft-Orelight/blob/master/images/cube-lightup.png" width="300" style="display: inline-block;"/>
+  <img src="https://github.com/Dawn-Of-Justice/Minecraft-Orelight/blob/master/images/cube.png" width="300" style="display: inline-block;"/>
+</div>
 
 
 ## Features
